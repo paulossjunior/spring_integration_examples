@@ -1,5 +1,5 @@
 # Spring Integration
-Neste respositório estão presentes os exemplos da integração de sistemas feitos na aula de Laboratório de Engenharia de Software do curso Bacharelado de Sistema de Informação do Ifes/Serra.
+Neste respositório estão presentes os exemplos da integração de sistemas feitos na aula de Laboratório de Engenharia de Software, do curso Bacharelado de Sistema de Informação do Ifes/Serra.
 
 
 Referências:
