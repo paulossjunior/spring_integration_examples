@@ -1,6 +1,11 @@
 # Spring Integration
 Neste respositório estão presentes os exemplos da integração de sistemas feitos na aula de Laboratório de Engenharia de Software, do curso Bacharelado de Sistema de Informação do Ifes/Serra.
 
+O exemplos tem como objetivo:
+
+1) **HelloWorld_Spring_Integration**: mandar uma mensagem no terminal com informações passadas pelo usuário.
+2) **Feed_Spring_Integration**: buscar as notícias do G1 a cada 10 segundos.
+
 
 Referências:
 1) **[Enterprise Integration Patterns](https://martinfowler.com/books/eip.html)**: livro descrevendo os padrões de Enterprise Integration.
