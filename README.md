@@ -7,4 +7,4 @@ Referências:
 
 2) **[Primeiros Passsos](https://domineospring.wordpress.com/2015/10/02/primeiros-passos-com-o-spring-integration/)**: Tutorial explicando alguns conceitos presentes no spring integration.
 
-3) **[Exemplos do github do Spring](https://github.com/spring-projects/spring-integration)**: respositório contendo exemplos básicos, intermediários e avançados do spring integration.
+3) **[Exemplos do github do Spring](https://github.com/spring-projects/spring-integration-samples)**: respositório contendo exemplos básicos, intermediários e avançados do spring integration.
